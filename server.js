@@ -41,7 +41,8 @@
             },
             servers: [
                 {
-                    url: "http://localhost:8080"
+                    // url: "http://localhost:8080"
+                    url: "https://nodejs-job-portal-5ber.onrender.com"
                 }
             ],
             security: [{ userAuthth: [] }], // Associate security with all operations
